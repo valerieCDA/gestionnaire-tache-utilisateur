@@ -1,0 +1,25 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+
+}
+p{
+    font-size: 22px;
+    display: block; margin: 0 auto;}
+
+    .souligne{
+        margin-top: 10px;
+        margin-bottom: 5px;
+    text-decoration: underline;
+}
+li{
+    font-size: 16px;
+    margin: 5;
+    display: inline;
+}
+button{
+    margin: 5px;
+    padding: 5px;
+}
